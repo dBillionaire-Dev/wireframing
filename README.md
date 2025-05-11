@@ -184,3 +184,33 @@ Before building the booking page on StayEase, a wireframe allowed the team to va
 Developers can use wireframes to estimate the effort required for front-end layout, component integration, and backend data structures — leading to more accurate timelines.
 
 ---
+
+## 🧪 Real-World Scenario: Identifying Usability Issues with Wireframing
+
+### 🏨 Scenario: StayEase Booking Flow
+
+While wireframing the **StayEase Checkout feature** (an Airbnb-like platform), the design team created a mid-fidelity wireframe of the booking process. It included fields such as:
+- Check-in and Check-out dates
+- Number of guests
+- Payment method
+- Confirmation button
+
+### ⚠️ Identified Issue
+
+During an internal review and early usability testing with wireframes, the team discovered two major concerns:
+1. **Lack of a Price Breakdown** — Users could not see a summary of costs (e.g., nightly rate, cleaning fee, total amount) before confirming the booking.
+2. **Unclear Error Handling** — The wireframe didn’t show how the UI would respond to issues like missing input or declined payment.
+
+### ✅ Resolution Through Wireframing
+
+Because these issues were identified early through the wireframe, the team made the following changes before development:
+- Added a **dynamic price breakdown panel** to the wireframe to improve transparency.
+- Designed and annotated **error states** and inline validations for key fields.
+
+These updates were then validated again with users using an interactive Figma prototype.
+
+### 🌟 Impact on Final Product
+
+- **Improved User Trust:** Users appreciated knowing the full cost before confirming a booking.
+- **Reduced Drop-offs:** Early feedback helped streamline the form, improving completion rates during user testing.
+- **Fewer Revisions Post-Development:** Developers received clear, complete wireframes that accounted for edge cases, reducing back-and-forth and rework.

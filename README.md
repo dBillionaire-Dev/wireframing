@@ -25,6 +25,27 @@ Wireframing plays a critical role in the **User Interface (UI)** and **User Expe
 - **Focuses on Functionality**  
   Keeps the team focused on solving usability problems before investing in visual details.
 
+### Key Elements of Wireframing
+
+1. **Layout Structure**
+   Defines the basic placement of elements like headers, footers, sidebars, and content areas.
+
+2. **Navigation**
+   Shows how users will move between pages or sections (e.g., menu bars, tabs, links).
+
+3. **Content Blocks**
+   Placeholder areas for text, images, videos, or interactive elements — often shown using boxes or dummy text.
+
+4. **Interface Elements**
+   Includes buttons, input fields, dropdowns, and checkboxes that represent user actions.
+
+5. **Hierarchy & Spacing**
+   Communicates the importance and relationship between elements using size, position, and white space.
+
+6. **Annotations (optional)**
+   Notes or labels explaining functionality, user interactions, or behavior for developers or stakeholders.
+
+
 ## 📐 When to Use Wireframes
 
 Wireframes are typically used in the **planning and analysis phase** of the design and development lifecycle. They are most effective when:
